@@ -1,38 +1,28 @@
 # Below are the Engineers that will be Supporting your Event
-<table class="hubperson"><tr>
-<td class="sepicture"><img src="https://avatars0.githubusercontent.com/u/32364785?s=460&u=fec66dcd4f9bb39407746f58dfd89d15a29f627e&v=4"/></td>
-<td class="setext"><p><h3>Chip Baber</h3></p>
-<p><em>NAC Lead, Developer Innovations Team</em></p>
-<p>
-<a href="https://www.linkedin.com/in/chipbaber" target="lin">LinkedIn</a> -
-<a href="https://github.com/chipbaber" target="git">Github</a> -
-<a href="https://twitter.com/chipbaber" target="twit">Twitter</a>
-</p>
-</td></tr><tr><td colspan="2" class="seDetailSpace">
-<h4>About</h4>
-<p class="aboutText">
-  At my core I am both a programmer and a creative. It is not just about showcasing Cloud, it is about making the Cloud to life through entertaining, programmatic hands on experiences. I lead Oracle's Code Innovate, Cloud Coaching and Cloud Accelerate programs for Oracle's NAC division. I thrive analyzing complex problems and leveraging IaaS and PaaS Cloud solutions to innovate.
-</p></td></tr><tr><td colspan="2" class="seDetailSpace">
-<h4>Hobbies</h4>
-<p class="aboutText">
-Baseball, Nascar, DraftKings
-</p></td></tr></table>
 
 <table class="hubperson"><tr>
-<td class="sepicture"><img src="https://avatars1.githubusercontent.com/u/25514773?s=460&u=85b873042fb6973be0384da1cc63471784174482&v=4"/></td>
-<td class="setext"><p><h3>Derrick Cameron</h3></p>
+<td class="sepicture"><img src="https://avatars2.githubusercontent.com/u/25616102?s=400&u=e4b45fe0daf2ca2ac5369d5b831a641549f92b6e&v=4"/></td>
+<td class="setext"><p><h3>Steven Nichols</h3></p>
 <p><em>Master Principal Engineer, Developer Innovations Team</em></p>
 <p>
-<a href="https://www.linkedin.com/in/derrick-cameron-b96408" target="lin">LinkedIn</a> -
-<a href="https://github.com/dgcameron" target="git">Github</a> -
+<a href="https://www.linkedin.com/in/steve-nichols-820b634/" target="lin">LinkedIn</a> -
+<a href="https://github.com/snicholspa" target="git">Github</a> -
 <a href="https://#" target="twit">Twitter</a>
 </p>
 </td></tr><tr><td colspan="2" class="seDetailSpace">
 <h4>About</h4>
 <p class="aboutText">
-After over 20 years at Oracle I still like the constant change and opportunity to build expertise on emerging technologies. In my technical sales role I enjoy the combination of hands on development work and the personal/social side of customer facing presentations and discussions.
+Steve is a member of the Developer Innovation Team which is part of the Cloud Solution Hub's ecosystem.
+
+The Cloud Solution Hubs are hubs of full-stack developers and solution engineers focused on building and innovating with our customers looking to build on the Oracle Cloud.
+
+The Cloud Solution Hub’s mission is to drive two objectives - scale and innovation.
+
+Scale - We plan to scale by embedding our services inside existing processes like ECAL. For example a POC or a Workshop should be standard bread and butter services delivered out of the Hubs and in partnership with field teams.
+
+Innovation - We achieve this objective when we can encourage everyone (field and Hub) to share ideas and solutions that can be developed to drive net-new demand for standalone cloud deals.
 </p></td></tr><tr><td colspan="2" class="seDetailSpace">
 <h4>Hobbies</h4>
 <p class="aboutText">
-Playing squash!  Living in the pacific northwest I enjoy hiking, local Portland brewpubs, and hanging out with family.
+Running marathons!
 </p></td></tr></table>

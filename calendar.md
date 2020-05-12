@@ -7,7 +7,7 @@ Several weeks leading up to the event we'll be engaging with you to learn more a
 
 | Date         | Time      | Zoom ID         |
 |---           |---        |---              |
-| Add Date     | 00:00 AM  | [Zoom](https://oracle.zoom.us/my/frank.baber?pwd=M09zSC9POTBDQWFJUW42NWUrTUN4Zz09) |
+| May 13, 2020     | 12:30 PM  | [Zoom](https://oracle.zoom.us/j/3754152080?pwd=RlVRU1p1RUZNUWg0WjNCUkRPRmhwQT09) |
 
 #### Event Action Items
 
@@ -18,7 +18,7 @@ Several weeks leading up to the event we'll be engaging with you to learn more a
 
 #### Event Date
 
-May 5-8, 2020
+May 13, 2020
 
 #### Event Agenda
 

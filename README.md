@@ -8,7 +8,7 @@ Welcome to your personalized github repo for your upcoming Virtual Code Innovate
 
 ## Next Meeting
 ---
-Add Date, Add Time, [Slack URL](http://addSlackUrl)
+Wednesday, April 22, 2020 at 12:30pm  [Slack URL](http://addSlackUrl)
 
 ## Your next actions
 ---
