@@ -4,7 +4,7 @@ What makes Code Innovate events so fun and effective are team dynamics. Particip
 
 _Please enter the names of all potential attendees below_
 
-### **Team 1**  -- [Team Repository](http://addGitURL)
+### **Team 1**  -- [Team Repository](https://github.com/code-innovate/codeInnovate-DryRun2-Team1/wiki)
 
 | Name 	      | Email	            |Github Username:     | Phone:       |
 |---	        |---	                |---	              |---	         |
@@ -13,7 +13,7 @@ _Please enter the names of all potential attendees below_
 |  Rebecca Campelli  	|  rebecca.campelli@oracle.com  	|  beckycampelli 	  |  (999)999-9999   |
 
 
-### **Team 2**  -- [Team Repository](http://addGitURL)
+### **Team 2**  -- [Team Repository](https://github.com/code-innovate/codeInnovate-DryRun2-Team2/wiki)
 
 | Name 	      | Email	        | Github Username:        | Phone:        |
 |---	        |---	          |---	                    |---	          |
@@ -22,7 +22,7 @@ _Please enter the names of all potential attendees below_
 |  Alison Visconti  	|  alison.visconti@oracle.com  	|  alivisconti	  |  (999)999-9999    |
 
 
-### **Team 3**  -- [Team Repository](http://addGitURL)
+### **Team 3**  -- [Team Repository](https://github.com/code-innovate/codeInnovate-DryRun2-Team3/wiki)
 
 | Name 	      | Email	        | Github Username:        | Phone:        |
 |---	        |---	          |---	                    |---	          |
