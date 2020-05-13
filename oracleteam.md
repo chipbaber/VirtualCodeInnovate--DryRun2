@@ -58,13 +58,11 @@ Hiking, Photography
 </td></tr><tr><td colspan="2" class="seDetailSpace">
 <h4>About</h4>
 <p class="aboutText">
-On the Developer Innovation team at Oracle we work directly with customers to solve problems, build hands-on workshops and otherwise showcase the power of the Oracle Cloud in order to appeal to developers inside and outside of Oracle's existing enterprise client pool. We work to demonstrate to devs that they can build powerful apps with flexible stacks on the Oracle Cloud.
-
-Skilled in full stack development including proficiency in Oracle Cloud, JavaScript, Python, C#, Swift, Angular, Vue, Node.JS, Flask, .NET, SQL, database architecture, Mapbox, HTML, Kubernetes, CSS, PSQL, Github, project deployment and most of all learning.
+Before I started at Oracle I was a full stack web developer. Since I started I have expanded my experience from web development to Dev-Ops, cloud infrastructure and of course the Oracle Database. I am interested in all things motorsport and any new technology I learn I try to apply to Formula 1.
 </p></td></tr><tr><td colspan="2" class="seDetailSpace">
 <h4>Hobbies</h4>
 <p class="aboutText">
-Hiking, Photography
+Motorsport, biking, PC building and baseball
 </p></td></tr></table>
 
 <table class="hubperson"><tr>
